@@ -1,0 +1,35 @@
+body {
+  background-image: url("fun\ on\ the\ beach.avif");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+h1 {
+  font-style: inherit;
+  font-size: 300%;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  color: #ff7f50;
+}
+
+h2 {
+  font-style: inherit;
+  font-size: 250%;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  color: #ff7f50;
+}
+
+h3 {
+  font-style: inherit;
+  font-size: 225%;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  color: #ff7f50;
+}
+
+p {
+  font-style: inherit;
+  font-weight: bolder;
+  font-size: 125%;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  color: #000000;
+}
